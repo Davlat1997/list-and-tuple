@@ -1,3 +1,3 @@
 my_string = "Davlatshokh!"
-my_list = list(my_string)  # Har bir harfni alohida element sifatida ajratish
+my_list = list(my_string) 
 print(my_list)
